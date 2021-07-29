@@ -1,7 +1,6 @@
 #include "device_info/device_info.hcs"
-#include "platform/i2c_config.hcs"
+#include "platform/pwm_config.hcs"
 #include "platform/hi35xx_watchdog_config.hcs"
-#include "platform/hi35xx_pwm_config.hcs"
 #include "platform/hi35xx_uart_config.hcs"
 #include "platform/sdio_config.hcs"
 #include "platform/emmc_config.hcs"
